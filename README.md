@@ -1,6 +1,6 @@
 # Molecular-Simulations
 Repository of MC and MD codes that I wrote as a part of my learning
-This file will containf the following :
+This file will contain the following :
   *details about the codes posted in this repository
-  *How to comile and run these codes
-  *Information of new ubroutines that are added from time to time.
+  *How to compile and run these codes
+  *Information of new subroutines that are added from time to time.
